@@ -29,5 +29,8 @@ print("Muito Obrigado por usar nossa Calculadora, Volte Sempre que quiser!")
 
 #foi
 
+#print(hello people)
+
+
 
  
