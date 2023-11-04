@@ -24,4 +24,10 @@ elif valor_usu == 4:
     print("A Divisão dos seus valores é:", primeiro_valor / segundo_valor)
 
 print("Muito Obrigado por usar nossa Calculadora, Volte Sempre que quiser!")
+
+#foi de novo
+
+#foi
+
+
  
